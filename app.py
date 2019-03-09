@@ -16,7 +16,7 @@ FIELDS = {'author': True, 'domain': True, 'created_date': True, 'linktitle':True
 
 @app.route("/")
 def index():
-    return render_template("dash2.html")
+    return render_template("dash.html")
 
 
 @app.route("/project3/comments")
