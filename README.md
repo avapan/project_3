@@ -1,6 +1,7 @@
 # Project_3
 
-Project Description
+Project Description:
+
 For this second project, your task will be to "tell a story" through data visualizations. 
 
 Unlike the first project, where you focused on using the "Analytics Paradigm" to explore relationships in "report form", this project should be more focused on providing users an interactive means to explore data themselves. 
@@ -11,7 +12,8 @@ You may choose a project of any theme, but we encourage you to think broadly. Th
 
 You will have roughly two weeks to complete this project. You will present your final work on Saturday (March 03, 2018). You will have ample time in class to work with your group (but expect to put in some long nights in the days ahead).
 
-Specific Requirements
+Specific Requirements:
+
 Your visualization must include a Python Flask powered RESTful API, HTML/CSS, JavaScript, and at least one database (MySQL, MongoDB, SQLite, etc.)
 
 Your project should fall into one of the below four tracks: 
